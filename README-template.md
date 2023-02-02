@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/hg770/product-preview-card-component](https://github.com/hg770/product-preview-card-component.git)
-- Live Site URL: [https://hg770.github.io/2-product-preview-card-component-main/Product%20Preview.html](https://hg770.github.io/)
+- Live Site URL: [https://hg770.github.io/](https://hg770.github.io/2-product-preview-card-component-main/Product%20Preview.html)
 
 ## My process
 
@@ -28,26 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Desktop-first workflow
+- Mobile-first workflow
 
 ### What I learned
 
-I learned to use padding and margin, and also to use the position function.
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.container {
-  margin: auto auto;
-}
-.image {
-  padding: 5% 5% 0% 5%;
-}
-```
-I also learned to use border radius by wrapping the image with a div, and applying the border radius to it, using overflow:hidden.
-
-```html
-<div class="image" style="border-radius: 30px; overflow: hidden;">
-  <img src="images/image-qr-code.png">
-</div>
-```
+I learned to use mobile first workflow, and use breakpoints for responsiveness.
