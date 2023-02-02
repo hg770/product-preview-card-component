@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/hg770/qr-code-component.git](https://github.com/hg770/qr-code-component.git)
-- Live Site URL: [https://hg770.github.io/](https://hg770.github.io/)
+- Solution URL: [https://github.com/hg770/product-preview-card-component](https://github.com/hg770/product-preview-card-component.git)
+- Live Site URL: [https://hg770.github.io/2-product-preview-card-component-main/Product%20Preview.html](https://hg770.github.io/)
 
 ## My process
 
